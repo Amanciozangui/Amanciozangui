@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amanciozangui
 - 👀 I’m interested in ...UI AND UX, Web Designer
 - 🌱 I’m currently learning ... JavaScript, HTML5 CSS3, MYSQL,PYTHON.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Web Designer, Web Dev.
 - 📫 How to reach me ...amanciof.zangue@gmail.com
 
 <!---
